@@ -64,21 +64,18 @@ content:
     content:
       - layout: top-middle
         title: 붙이다.
-        link: github.com/sproogen
+        link: github.com/SE0116/Jungle/BCD (추후 추가 예정)
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
             icon: fab fa-github
             url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          풀 스택 개발 담당
+          풀 스택 개발 담당 / React, JavaScript, CSS, Fastapi
         description: | # this will include new lines to allow paragraphs
           - React
-            ㅁ Hook 활용 수준 향상 시키기 ( useEffect, useState, useRef )
-            ㅁ SPA 형식으로 웹 페이지 만들어보기
+            - Hook 활용 수준 향상 시키기 ( useEffect, useState, useRef )
+            - SPA 형식으로 웹 페이지 만들어보기
           - CSS 활용 능력 키우기
           - PILLOW 라이브러리 내의 Paste 메소드를 활용한 이미지 합성 기능 구현
           - OpenCV 내의 스티칭 API, 그리고 Rembg로 이미지 프로세싱이 어떻게 동작하는지에 대해 학습
@@ -88,17 +85,8 @@ content:
 
       - layout: top-middle
         title: 나그네
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          프론트엔드 개발 담당
+          프론트엔드 개발 담당 / Unity
         description: | # this will include new lines to allow paragraphs
           - MapBox api와 GPS를 이용한 위치 출력 실습
           - 전반적인 지도 디자인 구성
@@ -106,17 +94,8 @@ content:
 
       - layout: top-middle
         title: FORest
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          프론트엔드 개발 담당
+          프론트엔드 개발 담당 / React, Material UI, CSS
         description: | # this will include new lines to allow paragraphs
           - 설문조사, 추천 결과 페이지 구성
           - Vue 대신 자유도가 비교적 높은 React 채용
@@ -124,17 +103,8 @@ content:
 
       - layout: top-middle
         title: 어서Auction
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          인프라 개발 담당
+          인프라 개발 담당 / Nginx, Jenkins, AWS EC2
         description: | # this will include new lines to allow paragraphs
           - Nginx, Jenkins를 이용해 서버 배포 및 자동화 진행
           - 진행 상황 점검을 주기적으로 해야 할 것 같다고 느낌
@@ -145,24 +115,28 @@ content:
       - layout: left
         title: Krafton Jungle
         link: jungle.krafton.com
+        sub_title: 높은 몰입도와 팀 프로젝트를 기반으로 진행되는 프로그램
         # link_text: boringcompany.com
         caption: October 2023 - February 2024
-        quote: >
-          높은 몰입도와 팀 프로젝트를 기반으로 진행되는 프로그램
+        # quote: >
+        #   높은 몰입도와 팀 프로젝트를 기반으로 진행되는 프로그램
         description: | # this will include new lines to allow paragraphs
-            - 운ㄴ
-            - 1회의 프로젝트 진행
+            - 운영체제 및 C언어를 이용한 프로그램의 동작 원리 이해
+            - 알고리즘 문제 풀이를 통한 전산적 사고 향상
+            - 프로젝트 1회 진행
 
       - layout: left
         title: SSAFY
         link: ssafy.com
+        sub_title: SW 역량 향상 및 프로젝트 수행
         # link_text: boringcompany.com
         caption: July 2021 - June 2022
-        quote: >
-          SW 역량 향상 및 프로젝트 수행
+        # quote: >
+        #   SW 역량 향상 및 프로젝트 수행
         description: | # this will include new lines to allow paragraphs
-            - 
-            - 3회의 프로젝트 진행
+            - Django, Vue.js 등을 이용한 웹 개발 기본기 마련
+            - 알고리즘 문제 풀이를 통한 전산적 사고 향상
+            - 프로젝트 3회 진행
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
