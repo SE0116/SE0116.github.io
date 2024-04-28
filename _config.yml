@@ -95,7 +95,7 @@ content:
       - layout: left
         title: FORest
         quote: >
-          프론트엔드 개발 담당 / React, Material UI, CSS
+          프론트엔드 개발 담당 / React
         description: | # this will include new lines to allow paragraphs
           - 설문조사, 추천 결과 페이지 구성
           - Vue 대신 자유도가 비교적 높은 React 채용
@@ -104,7 +104,7 @@ content:
       - layout: left
         title: 어서Auction
         quote: >
-          인프라 개발 담당 / Nginx, Jenkins, AWS EC2
+          인프라 개발 담당 / Nginx, Jenkins
         description: | # this will include new lines to allow paragraphs
           - Nginx, Jenkins를 이용해 서버 배포 및 자동화 진행
           - 진행 상황 점검을 주기적으로 해야 할 것 같다고 느낌
