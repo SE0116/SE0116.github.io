@@ -9,10 +9,10 @@ version: 2
 name: "장세영"
 title: "프론트엔드 개발자"
 email: cwan13@naver.com
-website: www.github.com/SE0116
+website: https://velog.io/@se0116/posts
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 github_username:  SE0116
@@ -62,7 +62,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: 붙이다.
         link: github.com/SE0116/Jungle/BCD (추후 추가 예정)
         # link_text: Project Website
@@ -83,7 +83,7 @@ content:
           - 프로젝트의 전반적인 오류 수정
           - 돌발 상황에 대한 사전 준비의 필요성을 느낌
 
-      - layout: top-middle
+      - layout: left
         title: 나그네
         quote: >
           프론트엔드 개발 담당 / Unity
@@ -92,7 +92,7 @@ content:
           - 전반적인 지도 디자인 구성
           - 팀원 간에 공유할 사항이 생길 때는 가능한 빠른 시일 내에 대화를 이어가는 것이 좋겠다고 느낌
 
-      - layout: top-middle
+      - layout: left
         title: FORest
         quote: >
           프론트엔드 개발 담당 / React, Material UI, CSS
@@ -101,7 +101,7 @@ content:
           - Vue 대신 자유도가 비교적 높은 React 채용
           - 정해진 기간 내 시간 조율을 잘 하는 것도 개발 능력에 포함된다고 느낌
 
-      - layout: top-middle
+      - layout: left
         title: 어서Auction
         quote: >
           인프라 개발 담당 / Nginx, Jenkins, AWS EC2
