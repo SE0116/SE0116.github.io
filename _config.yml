@@ -9,7 +9,7 @@ version: 2
 name: "장세영"
 title: "프론트엔드 개발자"
 email: cwan13@naver.com
-website: https://velog.io/@se0116/posts
+website: https://velog.io/@se0116
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -64,7 +64,7 @@ content:
     content:
       - layout: left
         title: 붙이다.
-        link: github.com/SE0116/Jungle/BCD (추후 추가 예정)
+        # link: github.com/SE0116/Jungle/BCD (추후 추가 예정)
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
