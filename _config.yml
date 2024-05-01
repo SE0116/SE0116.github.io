@@ -64,14 +64,16 @@ content:
     content:
       - layout: left
         title: 붙이다.
+        sub_title: 이미지 편집 및 앨범 생성 서비스
+        caption: FE 2명 / BE 2명 중 FE 담당 ( 40% 기여 )
         # link: github.com/SE0116/Jungle/BCD (추후 추가 예정)
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-        quote: >
-          풀 스택 개발 담당 / React, JavaScript, CSS, Fastapi
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
+        # quote: >
+        #   풀 스택 개발 담당 / React, JavaScript, CSS, Fastapi
         description: | # this will include new lines to allow paragraphs
           - React
             - Hook 활용 수준 향상 시키기 ( useEffect, useState, useRef )
@@ -85,8 +87,10 @@ content:
 
       - layout: left
         title: 나그네
-        quote: >
-          프론트엔드 개발 담당 / Unity
+        sub_title: AR 낙서 앱
+        caption: FE 4명 / BE 2명 중 FE 담당 ( 20% 기여 )
+        # quote: >
+        #   프론트엔드 개발 담당 / Unity
         description: | # this will include new lines to allow paragraphs
           - MapBox api와 GPS를 이용한 위치 출력 실습
           - 전반적인 지도 디자인 구성
@@ -94,20 +98,39 @@ content:
 
       - layout: left
         title: FORest
-        quote: >
-          프론트엔드 개발 담당 / React
+        sub_title: 빅데이터 기반 반려식물 추천 웹
+        caption: FE 2명 / BE 3명 중 FE 담당 ( 15% 기여 )
+        # quote: >
+        #   프론트엔드 개발 담당 / React
         description: | # this will include new lines to allow paragraphs
           - 설문조사, 추천 결과 페이지 구성
-          - Vue 대신 자유도가 비교적 높은 React 채용
+          - Vue 대신  자유도가 비교적 높은 React 채용
           - 정해진 기간 내 시간 조율을 잘 하는 것도 개발 능력에 포함된다고 느낌
 
       - layout: left
         title: 어서Auction
-        quote: >
-          인프라 개발 담당 / Nginx, Jenkins
+        sub_title: 중고 경매 웹
+        caption: FE 2명 / BE 2명 / 인프라 1명 중 인프라 담당 ( 10% 기여 )        
+        # quote: >
+        #   인프라 개발 담당 / Nginx, Jenkins
         description: | # this will include new lines to allow paragraphs
           - Nginx, Jenkins를 이용해 서버 배포 및 자동화 진행
           - 진행 상황 점검을 주기적으로 해야 할 것 같다고 느낌
+
+  - title: Skills # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: 공식 문서를 참고해 프로젝트를 진행할 수 있는 기술
+        description: JavaScript, React, CSS, Python
+
+      - layout: left
+        title: 공식 문서를 참고해 단순한 기능을 조작할 수 있는 기술
+        description: MySQL, Git, Jira, Jenkins
+
+      - layout: left
+        title: 프로젝트를 하면서 튜토리얼 수준으로 다뤘던 기술
+        description: Unity
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -145,6 +168,7 @@ content:
         title: Korea University Sejong Campus
         caption: 2015 - 2021
         sub_title: Mathematics
+
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         # description: | # this will include new lines to allow paragraphs
