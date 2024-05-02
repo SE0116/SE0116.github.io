@@ -65,9 +65,12 @@ content:
       - layout: left
         title: 붙이다.
         sub_title: 이미지 편집 및 앨범 생성 서비스
-        caption: 24. 01. 11. ~ 24. 02. 24. ( 5주 )
-        caption: FE 2명 / BE 2명 중 FE 담당
-        caption: 40% 기여
+        caption: >
+          24. 01. 11. ~ 24. 02. 24. ( 5주 )
+
+          FE 2명 / BE 2명 중 FE 담당
+          
+          40% 기여
         # link: github.com/SE0116/Jungle/BCD (추후 추가 예정)
         # link_text: Project Website
         # additional_links:
@@ -87,9 +90,12 @@ content:
       - layout: left
         title: 나그네
         sub_title: AR 낙서 앱
-        caption: 22. 04. 11. ~ 22. 05. 27.
-        caption: FE 4명 / BE 2명 중 FE 담당
-        caption: 20% 기여
+        caption: >
+          22. 04. 11. ~ 22. 05. 27.
+          
+          FE 4명 / BE 2명 중 FE 담당
+          
+          20% 기여
         # quote: >
         #   프론트엔드 개발 담당 / Unity
         description: | # this will include new lines to allow paragraphs
@@ -100,9 +106,12 @@ content:
       - layout: left
         title: FORest
         sub_title: 빅데이터 기반 반려식물 추천 웹
-        caption: 22. 02. 21. ~ 22. 04. 08.
-        caption: FE 2명 / BE 3명 중 FE 담당
-        caption: 15% 기여
+        caption: > 
+          22. 02. 21. ~ 22. 04. 08.
+
+          FE 2명 / BE 3명 중 FE 담당
+          
+          15% 기여
         # quote: >
         #   프론트엔드 개발 담당 / React
         description: | # this will include new lines to allow paragraphs
@@ -112,9 +121,12 @@ content:
       - layout: left
         title: 어서Auction
         sub_title: 중고 경매 웹
-        caption: 22. 01. 10. ~ 22. 02. 18.
-        caption: FE 2명 / BE 2명 / 인프라 1명 중 인프라 담당
-        caption: 10% 기여
+        caption: >
+          22. 01. 10. ~ 22. 02. 18.
+
+          FE 2명 / BE 2명 / 인프라 1명 중 인프라 담당
+          
+          10% 기여
         # quote: >
         #   인프라 개발 담당 / Nginx, Jenkins
         description: | # this will include new lines to allow paragraphs
