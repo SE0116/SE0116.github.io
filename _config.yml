@@ -65,12 +65,14 @@ content:
       - layout: left
         title: 붙이다.
         sub_title: 이미지 편집 및 앨범 생성 서비스
-        caption: |
-          FE 2명 / BE 2명 중 FE 담당
-          
-          40% 기여
+        caption: React, JavaScript, FastAPI
         quote: >
           24. 01. 11. ~ 24. 02. 24.
+          
+          FE 2명 / BE 2명 중 FE 담당
+                    
+          40% 기여
+
         # link: github.com/SE0116/Jungle/BCD (추후 추가 예정)
         # link_text: Project Website
         # additional_links:
@@ -80,9 +82,8 @@ content:
         # quote: >
         #   풀 스택 개발 담당 / React, JavaScript, CSS, Fastapi
         description: | # this will include new lines to allow paragraphs
-          - React
-            - Hook 활용 수준 향상 시키기 ( useEffect, useState, useRef )
-            - SPA 형식으로 웹 페이지 만들어보기
+          - Hook 활용 수준 향상 시키기 ( useEffect, useState, useRef )
+          - SPA 방식 구현
           - 이미지 합성 기능 구현 ( Pillow )
           - 이미지 배경 제거 및 스티칭 구현 ( Rembg, OpenCV )
           - PostgreSQL을 DB로 사용하고 SQLAlchemy를 사용하면서 ORM에 대해 학습, DB테이블 간단 조작
@@ -90,12 +91,13 @@ content:
       - layout: left
         title: 나그네
         sub_title: AR 낙서 앱
-        caption: |
+        caption: Unity
+        quote: >
+          22. 04. 11. ~ 22. 05. 27.
+          
           FE 4명 / BE 2명 중 FE 담당
           
           20% 기여
-        quote: >
-          22. 04. 11. ~ 22. 05. 27.
         #   프론트엔드 개발 담당 / Unity
         description: | # this will include new lines to allow paragraphs
           - MapBox api와 GPS를 이용한 위치 출력 실습
@@ -105,12 +107,13 @@ content:
       - layout: left
         title: FORest
         sub_title: 빅데이터 기반 반려식물 추천 웹
-        caption: > 
+        caption: React, JavaScript
+        quote: >
+          22. 02. 21. ~ 22. 04. 08.
+
           FE 2명 / BE 3명 중 FE 담당
           
           15% 기여
-        quote: >
-          22. 02. 21. ~ 22. 04. 08.
         #   프론트엔드 개발 담당 / React
         description: | # this will include new lines to allow paragraphs
           - 이용자의 생활 패턴 관련 설문조사, 추천 결과 페이지 구현
@@ -119,12 +122,13 @@ content:
       - layout: left
         title: 어서Auction
         sub_title: 중고 경매 웹
-        caption: >
+        caption: Nginx, Jenkins
+        quote: >
+          22. 01. 10. ~ 22. 02. 18.
+
           FE 2명 / BE 2명 / 인프라 1명 중 인프라 담당
           
           10% 기여
-        quote: >
-          22. 01. 10. ~ 22. 02. 18.
         #   인프라 개발 담당 / Nginx, Jenkins
         description: | # this will include new lines to allow paragraphs
           - Nginx, Jenkins를 이용해 서버 배포 및 자동화 진행
@@ -153,8 +157,8 @@ content:
         link: jungle.krafton.com
         sub_title: 높은 몰입도와 팀 프로젝트를 기반으로 진행되는 프로그램
         # link_text: boringcompany.com
-        caption: 23. 10. 10 ~ 24. 02. 29
-        # quote: >
+        quote: >
+          23. 10. 10 ~ 24. 02. 29
         #   높은 몰입도와 팀 프로젝트를 기반으로 진행되는 프로그램
         description: | # this will include new lines to allow paragraphs
             - 알고리즘 문제 풀이를 통한 전산적 사고 향상 ( 자료 구조, BFS / DFS, 그리디, 동적 프로그래밍 )
@@ -167,8 +171,8 @@ content:
         link: ssafy.com
         sub_title: SW 역량 향상 및 프로젝트 수행
         # link_text: boringcompany.com
-        caption: 21. 07. 07 ~ 22. 05. 27
-        # quote: >
+        quote: >
+          21. 07. 07 ~ 22. 05. 27
         #   SW 역량 향상 및 프로젝트 수행
         description: | # this will include new lines to allow paragraphs
             - 프로그래밍 언어 기초, 데이터 구조, 함수, 모듈 / 예외처리, OOP
