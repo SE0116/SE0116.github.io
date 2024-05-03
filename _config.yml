@@ -45,8 +45,6 @@ instagram_username: se0_116
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  프론트엔드 개발자를 지망합니다.
-
   사용자가 서비스를 이용하는 데 불편함이 없도록 합니다.
 
   삼성청년SW아카데미와 크래프톤 정글에서 프론트 엔드 개발을 담당하면서 React Hook과 SPA를 사용해 페이지의 로딩 속도를 높였습니다.
@@ -139,20 +137,27 @@ content:
     content:
       - layout: left
         sub_title: React
-        description: >
+        description: |
+          컴포넌트 기반의 구조를 이해해 유지보수에 용이한 코드를 작성할 수 있습니다.
+          Router와 Axios를 사용해 컴포넌트 사이 또는 클라이언트와 서버 사이의 통신을 구현할 수 있습니다.
           React Hook과 Context API를 이용해 상태 관리를 경험했습니다.
+          SPA 방식을 이용해 웹 페이지의 속도를 개선할 수 있습니다.
 
       - layout: left
-        sub_title: JavaScript, React, CSS, Python
-        description: 공식 문서를 참고해 프로젝트를 진행할 수 있는 기술
+        sub_title: JavaScript, CSS, Python
+        description: 공식 문서를 참고해 토이 프로젝트를 진행할 수 있는 수준입니다.
 
       - layout: left
-        sub_title: MySQL, Git, Jira, Jenkins
-        description: 공식 문서를 참고해 단순한 기능을 조작할 수 있는 기술
+        sub_title: MySQL
+        description: 워크벤치 또는 터미널을 이용해 단순한 DB 조회 및 조작을 할 수 있습니다.
 
       - layout: left
-        sub_title: Unity
-        description: 프로젝트를 하면서 튜토리얼 수준으로 다뤘던 기술
+        sub_title: Git, Jira
+        description: 협업을 위해 사용해 스프린트를 조정하고 이슈를 공유한 경험이 있습니다.
+
+      - layout: left
+        sub_title: Unity, Jenkins
+        description: 프로젝트를 하면서 튜토리얼 수준으로 다뤘지만, 다른 기술에 비해 숙련도가 낮습니다.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
