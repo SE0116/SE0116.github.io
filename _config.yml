@@ -46,7 +46,7 @@ instagram_username: se0_116
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   프론트엔드 개발자를 지망합니다.
-  
+
   사용자가 서비스를 이용하는 데 불편함이 없도록 합니다.
 
   삼성청년SW아카데미와 크래프톤 정글에서 프론트 엔드 개발을 담당하면서 React Hook과 SPA를 사용해 페이지의 로딩 속도를 높였습니다.
@@ -140,9 +140,7 @@ content:
       - layout: left
         sub_title: React
         description: >
-        React Hook과 Context API를 이용해 상태 관리를 경험했습니다.
-
-        
+          React Hook과 Context API를 이용해 상태 관리를 경험했습니다.
 
       - layout: left
         sub_title: JavaScript, React, CSS, Python
