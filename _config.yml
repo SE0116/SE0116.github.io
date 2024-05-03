@@ -54,7 +54,7 @@ about_content: | # this will include new lines to allow paragraphs
   제가 작업한 코드를 팀원이 전달받았을 때 바로 납득할 수 있는지 항상 고민합니다.
   
   Git과 Jira를 사용해 진행 상황을 공유하고 스프린트를 조정하며 전반적인 일정을 조율한 경험이 있습니다.  
-  프론트엔드를 지망하지만 백엔드에서 어떻게 요청을 받는지 이해하기 위해 "붙이다." 프로젝트에서 프론트엔드를 구현하면서 FastAPI를 이용해 백엔드를 구현했습니다.
+  프론트엔드를 지망하지만 백엔드에서 어떻게 요청을 받는지 이해하기 위해 "붙이다." 프로젝트에서 프론트엔드를 구현함과 동시에 FastAPI를 이용해 백엔드를 구현했습니다.
   
 content:
   - title: Projects # Title for the section
@@ -98,9 +98,8 @@ content:
           20% 기여
         #   프론트엔드 개발 담당 / Unity
         description: | # this will include new lines to allow paragraphs
-          - MapBox api와 GPS를 이용한 위치 출력 실습
-          - 전반적인 지도 디자인 구성
-          - 팀원 간에 공유할 사항이 생길 때는 가능한 빠른 시일 내에 대화를 이어가는 것이 좋겠다고 느낌
+          - 앱을 켰을 때 사용자의 위치를 발자국으로 표시 ( Mapbox API )
+          - 사용자의 위치를 확인할 수 있는 지도 화면 구현 ( GO Map )
 
       - layout: left
         title: FORest
@@ -114,8 +113,7 @@ content:
           15% 기여
         #   프론트엔드 개발 담당 / React
         description: | # this will include new lines to allow paragraphs
-          - 이용자의 생활 패턴 관련 설문조사, 추천 결과 페이지 구현
-          - 정해진 기간 내 시간 조율을 잘 하는 것도 개발 능력에 포함된다고 느낌
+          - 이용자의 생활 패턴 관련 설문조사, 추천 결과 페이지 구현 ( CSS, Material UI )
 
       - layout: left
         title: 어서Auction
@@ -129,8 +127,7 @@ content:
           10% 기여
         #   인프라 개발 담당 / Nginx, Jenkins
         description: | # this will include new lines to allow paragraphs
-          - Nginx, Jenkins를 이용해 서버 배포 및 자동화 진행
-          - 진행 상황 점검을 주기적으로 해야 할 것 같다고 느낌
+          - 서버 배포 및 자동화 진행 ( Nginx, Jenkins )
 
   - title: Skills # Title for the section
     layout: list # Type of content section (list/text)
@@ -185,9 +182,9 @@ content:
           21. 07. 07 ~ 22. 05. 27
         #   SW 역량 향상 및 프로젝트 수행
         description: | # this will include new lines to allow paragraphs
-            - 프로그래밍 언어 기초, 데이터 구조, 함수, 모듈 / 예외처리, OOP
-            - HTML, CSS, Bootstrap, REST API, Django, Javascript, DB, Vue.js
-            - 컴퓨팅 사고력
+            - 프로그래밍 언어 기초 이론 학습 ( 데이터 구조, 함수, 모듈 / 예외처리, OOP )
+            - 웹 프레임워크에 대한 기본적인 이해 ( HTML, CSS, Bootstrap, REST API, Django, Vue.js )
+            - 알고리즘 풀이를 통한 컴퓨팅 사고력 향상
             - 웹 프레임워크를 활용한 관통 프로젝트 진행
             - 이후 프로젝트 3회 진행 ( 웹 기술, 빅데이터 추천, 자유 주제)
 
@@ -195,9 +192,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Korea University Sejong Campus
-        caption: 15. 03. 01 ~ 21. 08. 25
-        sub_title: Mathematics
+        title: 고려대학교 세종캠퍼스
+        quote: >
+          15. 03. 01 ~ 21. 08. 25
+        description: 수학과 전공
 
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
